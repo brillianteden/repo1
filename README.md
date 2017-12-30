@@ -1,5 +1,4 @@
-# Eden
-
+# Eden Mugg
 ## Playing with Markdown
 
 I am *attempting* to familiarize myself with the basics of working from the
