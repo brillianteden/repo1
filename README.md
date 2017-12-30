@@ -1,30 +1,25 @@
-# This is a large heading
+# Eden
 
-## This is a smaller heading
+## Playing with Markdown
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I am *attempting* to familiarize myself with the basics of working from the
+command line in Unix.  I am a programming student, and all of my learning to
+this point in time has been in **IDEs**. I'm *super excited* to dig deeper
+into the tools available to me and to design my own ideal coding environment!
 
-- This is
-- an unordered
-- list
+Languages:
+- Python
+- JavaScript
+- HTML
+- CSS
+- Bash
 
-1. This is
-2. an ordered
-3. list
+Short Term Goals
+1. Familiarize myself with the Unix command line
+2. Start using Git and Markdown
+3. Find a good text editor
+4. Set up a custom development environment from the command line
 
-Here is `some code` in the middle of a sentence.
-
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+[my LinkedIn account](https://www.linkedin.com/in/edenmugg/).
 
 nano README.md
